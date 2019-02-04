@@ -1,3 +1,5 @@
+# Script by Edward van Biljon . Visit https://social.technet.microsoft.com/profile/edward%20van%20biljon/ ####
+
 Set-Executionpolicy RemoteSigned
 $days=0
 $IISLogPath="C:\inetpub\logs\LogFiles\"
